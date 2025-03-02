@@ -21,7 +21,7 @@ status: true
 price: 2500
 miles: 185,277
 author: Automatic
-draft: true
+draft: false
 contact: 2145697812
 contactString: (214) 253-4567
 ---
