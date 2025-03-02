@@ -1,7 +1,7 @@
 baseURL = 'https://mendoza-git.github.io/'
 languageCode = 'en-us'
 title = 'Gonzalos Garage'
-theme = 'dream'
+theme = 'gg-dream/dream'
 
 [params]
 avatar = '/img/gg-logo.png'
