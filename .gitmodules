@@ -1,3 +1,3 @@
-[submodule "themes/dream"]
-    path = themes/gg-dream
+[submodule "themes/gg-dream/dream"]
+    path = themes/gg-dream/dream
     url = https://github.com/mendoza-git/dream.git
