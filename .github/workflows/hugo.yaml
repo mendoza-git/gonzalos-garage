@@ -45,6 +45,7 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+          path: /home/runner/work/gonzalos-garage
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
