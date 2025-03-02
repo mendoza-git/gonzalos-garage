@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Gonzalos Garage'
+theme = 'dream'
+
+[params]
+avatar = '/img/gg-logo.png'
