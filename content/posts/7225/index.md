@@ -18,12 +18,12 @@ tags:
   - Nissan
 # nolastmod:
 status: true
-price: 2500
+price: 3000
 miles: 185,277
 author: Automatic
 draft: false
-contact: 2145697812
-contactString: (214) 253-4567
+contact: 2143958350
+contactString: (214) 395-8350
 ---
 
 <!--more-->
@@ -33,7 +33,7 @@ contactString: (214) 253-4567
 | **Make**         | Nissan      |
 | **Model**        | Altima      |
 | **Year**         | 2012        |
-| **Price**        | $2500       |
+| **Price**        | $3000       |
 | **Miles**        | 185,277     |
 | **Transmission** | Automatic   |
 
